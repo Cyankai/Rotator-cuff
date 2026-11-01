@@ -5,7 +5,7 @@ High-resolution spatial transcriptomic analysis (10x Genomics Visium HD, 8 µm b
 
 This repository contains the end-to-end R analysis pipeline and visualization scripts for high-resolution spatial transcriptomic profiling of human rotator cuff tear (RCT) specimens using the **10x Genomics Visium HD** platform (`square_008um` binned outputs). 
 
-Our analysis resolves **11 distinct cellular subpopulations** across the tendon-to-fibrotic transition zone, reconstructs the fibroblast lineage trajectory across **three evolutionary phases**, and uncovers the microenvironmental coupling between **iron overload, vascular distance (HIF-1α/Smad3 "Brake-Release" switch), and terminal fibrogenesis**.
+Our analysis resolves **11 distinct cellular subpopulations** across the tendon-to-fibrotic transition zone, reconstructs the fibroblast lineage trajectory across **three evolutionary phases**.
 
 ---
 
